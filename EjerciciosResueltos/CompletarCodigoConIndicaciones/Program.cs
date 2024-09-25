@@ -1,10 +1,10 @@
 ﻿
-namespace CompletarCodigoIConIndicaciones {
+
+namespace CompletarCodigoConIndicaciones {
 
 	internal class Program {
 
 		static void Main(string[] args) {
-
 			// Modificar para incorporar las siguientes características:    
 			// Indicar el numero de intentos que le quedan
 			// Indicar si el número a adivinar es mayor o menor que el introducido
